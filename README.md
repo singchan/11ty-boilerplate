@@ -1,3 +1,8 @@
+This repository is a template you can use to create a site with [11ty](https://11ty.dev) and [Silex website builder](https://www.silex.me)
+
+It conains an action to deploy on github pages automatically
+
+Here is how to start:
 
 1. Fork this repo in github or click "use this template" (/!\ be sure to select "Include all branches")
 1. Create a [deploy token here](https://github.com/settings/tokens) with the access write `public_repo`
